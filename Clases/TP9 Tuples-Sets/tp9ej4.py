@@ -1,0 +1,1 @@
+'''Escriba una función que dada una lista de tuplas elimine de la lista todas las tuplas vacías'''
