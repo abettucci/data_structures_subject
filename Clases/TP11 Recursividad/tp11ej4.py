@@ -1,0 +1,1 @@
+'''Escribir un método recursivo, que calcule la suma de los elementos de una lista secuencial'''
