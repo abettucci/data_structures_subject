@@ -1,3 +1,3 @@
 # EstructurasDeDatos
 
-Que miras bobo? Anda payá bobo
+Practical works and exams from Data structures and programming subject from college.
